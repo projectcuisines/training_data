@@ -12,3 +12,6 @@
 - https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/LOFVCV
 - https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/TAA0XE
 - https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/TPW9VF
+- https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/JCLM0O
+- https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/MQVUFQ
+- https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/EYDDSL
