@@ -15,3 +15,6 @@
 - https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/JCLM0O
 - https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/MQVUFQ
 - https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/EYDDSL
+
+## ROCKE-3D 2.0
+- https://doi.org/10.5281/zenodo.14721184
